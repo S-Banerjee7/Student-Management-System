@@ -1,4 +1,9 @@
 # Console-Based Student Management System
+## Project Demo
+
+https://github.com/user-attachments/assets/e3ca46eb-13e1-4e26-9f40-2509618b7fb8
+
+
 
 A robust, enterprise-structured backend CLI application built using Java and MySQL to handle basic CRUD operations for student registration details.
 
