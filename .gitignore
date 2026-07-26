@@ -1,21 +1,65 @@
-# Java compiled files
+# ==========================
+# Java
+# ==========================
+
+# Compiled Java files
 *.class
 
-# VS CODE
+# Build directories
+bin/
+out/
+build/
+target/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# ==========================
+# IDEs
+# ==========================
+
+# VS Code
 .vscode/
 
 # IntelliJ IDEA
 .idea/
+*.iml
 
-#Eclipse
+# Eclipse
 .settings/
 .project
 .classpath
 
-# macOs
+# NetBeans
+nbproject/private/
+
+# ==========================
+# Build Tools
+# ==========================
+
+# Gradle
+.gradle/
+
+# Maven Wrapper cache
+.mvn/wrapper/maven-wrapper.jar
+
+# ==========================
+# Logs
+# ==========================
+
+*.log
+
+# ==========================
+# Operating System Files
+# ==========================
+
+# macOS
 .DS_Store
 
 # Windows
 Thumbs.db
+Desktop.ini
 
 lib/
