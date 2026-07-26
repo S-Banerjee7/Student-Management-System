@@ -1,0 +1,21 @@
+# Java compiled files
+*.class
+
+# VS CODE
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+#Eclipse
+.settings/
+.project
+.classpath
+
+# MacOs
+.DS_Store
+
+# Windows
+Thumbs.db
+
+lib/
